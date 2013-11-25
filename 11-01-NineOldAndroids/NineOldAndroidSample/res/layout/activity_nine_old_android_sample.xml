@@ -1,0 +1,33 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".NineOldAndroidSampleActivity" >
+
+    <Button
+        android:id="@+id/value_anim"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ValueAnimator" />
+
+    <TextView
+        android:id="@+id/value_anim_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="value..." />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/view_anim"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="ViewPropertyAnimator" />
+    </LinearLayout>
+
+</LinearLayout>

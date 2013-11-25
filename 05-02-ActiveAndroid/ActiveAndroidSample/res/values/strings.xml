@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ActiveAndroidSample</string>
+    <string name="action_cleanup">Clean Up</string>
+    <string name="title_todo">Todo</string>
+    <string name="title_history">History</string>
+    <string name="add_todo">Add</string>
+
+</resources>

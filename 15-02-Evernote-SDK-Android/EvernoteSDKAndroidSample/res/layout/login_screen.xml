@@ -1,0 +1,22 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:layout_margin="30dp"
+    tools:context=".MainFragment" >
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:text="@string/login_message" />
+	<Button
+	    android:id="@+id/login_button"
+	    android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/login_button"
+	    />
+</LinearLayout>

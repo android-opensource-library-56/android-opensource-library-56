@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">acraSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="crash_title">クラッシュレポート</string>
+    <string name="crash_text">予期せぬエラーが発生しました。アプリケーションを終了します。OKを押下するとクラッシュレポートを送信します。</string>
+
+</resources>

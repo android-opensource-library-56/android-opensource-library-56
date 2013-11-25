@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ActionBarSherlockSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="tab">Tab Style</string>
+    <string name="list">List Style</string>
+    <string name="title_activity_list_style">ListStyleActivity</string>
+    <string name="title_activity_tab_style">TabStyleActivity</string>
+    <string name="title_activity_default_action_bar">DefaultActionBarActivity</string>
+	<string name="default_style">Default Style</string>
+</resources>

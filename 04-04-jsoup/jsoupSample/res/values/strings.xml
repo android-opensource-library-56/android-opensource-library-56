@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">jsoupSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_jsoup_sample">JsoupSampleActivity</string>
+    <string name="title_activity_sanitize">SanitizeActivity</string>
+    <string name="sanitize">sanitize</string>
+</resources>

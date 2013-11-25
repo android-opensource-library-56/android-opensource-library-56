@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ScribeJavaSample</string>
+    <string name="action_settings">Settings</string>
+	<string name="start_oauth">Start OAuth</string>
+	<string name="oauth_description">ボタンを押下するとTwitterのOAuthを開始します。認証後表示されるPINコードを入力して下さい。</string>
+	<string name="ok_button">OK</string>
+	<string name="tweet_button">tweet!</string>
+</resources>

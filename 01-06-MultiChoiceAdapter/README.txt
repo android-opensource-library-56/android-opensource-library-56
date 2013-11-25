@@ -1,0 +1,14 @@
+ListViewで要素の複数選択を可能にするライブラリ
+サポートバージョン: Android 2.2 以上
+License: Apache 2.0
+タイプ: ライブラリプロジェクト
+公式サイト: https://github.com/ManuelPeinado/MultiChoiceAdapter
+
+setup.shを実行するとMultiChoiceAdapterとActionBarSherlockをcloneできます。
+MultiChoiceAdapterとActionBarSherlockをインポートして下さい。
+MultiChoiceAdapterは以下の2つのライブラリをインポートする必要があります。
+
+MultiChoiceAdapter/library
+MultiChoiceAdapter/extras/actionbarsherlock
+
+詳細な導入手順や使い方については書籍を参照して下さい。

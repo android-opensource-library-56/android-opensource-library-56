@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GPUImageForAndroidSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_image_proccessing">ImageProccessingActivity</string>
+    <string name="title_activity_realtime_camera_preview">RealtimeCameraPreviewActivity</string>
+    <string name="sepia">セピア</string>
+    <string name="gray">白黒</string>
+    <string name="sharp">シャープ</string>
+    <string name="edge">エッジ</string>
+
+</resources>

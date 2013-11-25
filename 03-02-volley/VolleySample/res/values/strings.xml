@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VolleySample</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_network_image_view">NetworkImageViewActivity</string>
+    <string name="title_activity_request">RequestActivity</string>
+    <string name="loading">loading...</string>
+
+</resources>

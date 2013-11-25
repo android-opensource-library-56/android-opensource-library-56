@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StyledDialogsSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="social_dialog">お疲れ様でした！結果をシェアしてポイント 10% アップ！！</string>
+
+</resources>

@@ -1,0 +1,15 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="cache_is_save"
+        android:title="キャッシュをする" />
+
+    <EditTextPreference
+        android:inputType="number"
+        android:key="cache_size"
+        android:maxLength="5"
+        android:summary="キャッシュサイズ"
+        android:title="キャッシュサイズを指定する" />
+
+</PreferenceScreen>

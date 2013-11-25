@@ -1,0 +1,58 @@
+<com.manuelpeinado.imagelayout.ImageLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:img="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    img:fit="both"
+    img:image="@drawable/map"
+    img:imageHeight="480"
+    img:imageWidth="800" >
+
+    <Button
+        android:id="@+id/kanto"
+        img:layout_centerX="660"
+        img:layout_centerY="205"
+        android:text="関東" />
+
+    <Button
+        android:id="@+id/kinki"
+        img:layout_centerX="400"
+        img:layout_centerY="225"
+        android:text="近畿" />
+
+    <Button
+        android:id="@+id/shikoku"
+        img:layout_centerX="300"
+        img:layout_centerY="305"
+        android:text="四国" />
+
+    <Button
+        android:id="@+id/chugoku"
+        img:layout_centerX="270"
+        img:layout_centerY="165"
+        android:text="中国" />
+
+    <Button
+        android:id="@+id/shikoku"
+        img:layout_centerX="300"
+        img:layout_centerY="305"
+        android:text="四国" />
+
+    <Button
+        android:id="@+id/kyusyu"
+        img:layout_centerX="140"
+        img:layout_centerY="365"
+        android:text="九州" />
+
+    <Button
+        android:id="@+id/tyubu"
+        img:layout_centerX="520"
+        img:layout_centerY="125"
+        android:text="中部" />
+    
+    <Button
+        android:id="@+id/tohoku"
+        img:layout_centerX="670"
+        img:layout_centerY="75"
+        android:text="東北" />
+</com.manuelpeinado.imagelayout.ImageLayout>

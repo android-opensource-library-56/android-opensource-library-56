@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="jp.mydns.sys1yagi.android.androidviewpagerindicatorsample"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="jp.mydns.sys1yagi.android.androidviewpagerindicatorsample.AndroidViewPagerIndicatorSampleActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="jp.mydns.sys1yagi.android.androidviewpagerindicatorsample.TitlePageIndicatorActivity" >
+        </activity>
+        <activity
+            android:name="jp.mydns.sys1yagi.android.androidviewpagerindicatorsample.CirclePageIndicatorActivity"
+            android:label="@string/title_activity_circle_page_indicator"
+            android:parentActivityName="android.support.v4.app.FragmentActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="android.support.v4.app.FragmentActivity" />
+        </activity>
+        <activity
+            android:name="jp.mydns.sys1yagi.android.androidviewpagerindicatorsample.IconPageIndicatorActivity"
+            android:label="@string/title_activity_icon_page_indicator" >
+        </activity>
+        <activity
+            android:name="jp.mydns.sys1yagi.android.androidviewpagerindicatorsample.TabPageIndicatorActivity"
+            android:label="@string/title_activity_tab_page_indicator"
+            android:theme="@style/Theme.PageIndicatorDefaults"
+             >
+        </activity>
+        <activity
+            android:name="jp.mydns.sys1yagi.android.androidviewpagerindicatorsample.LinePageIndicatorActivity"
+            android:label="@string/title_activity_line_page_indicator" >
+        </activity>
+        <activity
+            android:name="jp.mydns.sys1yagi.android.androidviewpagerindicatorsample.UnderlinePageIndicatorActivity"
+            android:label="@string/title_activity_underline_page_indicator" >
+        </activity>
+    </application>
+
+</manifest>

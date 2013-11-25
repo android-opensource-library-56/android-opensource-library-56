@@ -1,0 +1,3 @@
+アイコンは以下のサイトで生成したものを利用しています。
+
+loader generator : http://loadinfo.net/

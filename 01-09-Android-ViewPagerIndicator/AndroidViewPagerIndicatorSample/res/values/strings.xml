@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidViewPagerIndicatorSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_circle_page_indicator">CirclePageIndicatorActivity</string>
+    <string name="title_activity_icon_page_indicator">IconPageIndicatorActivity</string>
+    <string name="title_activity_tab_page_indicator">TabPageIndicatorActivity</string>
+    <string name="title_activity_line_page_indicator">LinePageIndicatorActivity</string>
+    <string name="title_activity_underline_page_indicator">UnderlinePageIndicator</string>
+
+</resources>
