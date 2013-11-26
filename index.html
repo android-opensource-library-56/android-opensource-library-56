@@ -18,10 +18,17 @@
 
 </head>
 <body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 <div id="header">
     <nav>
         <li class="fork"><a href="https://github.com/sys1yagi/android-opensource-library-56">View On GitHub</a></li>
-
     </nav>
 </div>
 <!-- end header -->
@@ -32,10 +39,27 @@
     <h2>Androidオープンソースライブラリ徹底活用</h2>
 
     <p>Android Opensource Library 56</p>
+
     <hr>
     <span class="credits left">Project maintained by <a href="https://github.com/sys1yagi">sys1yagi</a></span>
-            <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a
-                    href="https://twitter.com/michigangraham">mattgraham</a></span>
+    <span class="credits left" style="margin-left: 5px;">
+        <a href="https://twitter.com/share" class="twitter-share-button"
+           data-url="http://sys1yagi.github.io/android-opensource-library-56/" data-via="sys1yagi">Tweet</a>
+        <script>!function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https';
+            if (!d.getElementById(id)) {
+                js = d.createElement(s);
+                js.id = id;
+                js.src = p + '://platform.twitter.com/widgets.js';
+                fjs.parentNode.insertBefore(js, fjs);
+            }
+        }(document, 'script', 'twitter-wjs');</script>
+    </span>
+    <span class="credits left" style="margin-left: 5px;">
+        <div class="fb-like" data-href="http://sys1yagi.github.io/android-opensource-library-56/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+    </span>
+    <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a
+            href="https://twitter.com/michigangraham">mattgraham</a></span>
 </div>
 
 <img src="images/cov.jpg" width="240px" style="float:left;margin-right:15px;"/>
@@ -102,12 +126,12 @@
     </p>
 
 
-    <p>1.Amazonのページから予約注文する<br/>
-    <a href="">http://www.amazon.co.jp/dp/</a>
+    <p>1.Amazonのページから予約注文してください。<br/>
+        <a href="">http://www.amazon.co.jp/dp/</a>
     </p>
 
     <p>
-    2.メールに記載された注文番号を控える<br>
+        2.メールに記載された注文番号を控えてください。<br>
 
 <pre>
 ***********************************************************
@@ -142,7 +166,8 @@
 
 <h3>書籍紹介</h3>
 
-<p>本書はAndroid アプリケーション開発を助ける便利なオープンソースライブラリをカタログ化したものです。UI 操作や画像処理、ネットワーク、データ処理、データベース、テスト、デバッグなど様々なジャンルのライブラリを計 56 個掲載しています。</p>
+<p>本書はAndroid アプリケーション開発を助ける便利なオープンソースライブラリをカタログ化したものです。UI 操作や画像処理、ネットワーク、データ処理、データベース、テスト、デバッグなど様々なジャンルのライブラリを計 56
+    個掲載しています。</p>
 
 <pre>
 
