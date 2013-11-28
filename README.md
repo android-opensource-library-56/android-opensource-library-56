@@ -1,5 +1,14 @@
 ## 概要
 
+本リポジトリは[Androidオープンソースライブラリ徹底活用](http://www.amazon.co.jp/gp/product/4798040029/)のサンプルコードのリポジトリです。書籍の情報については[http://sys1yagi.github.io/android-opensource-library-56/](http://sys1yagi.github.io/android-opensource-library-56/)を参照ください。
+
+<img src="http://sys1yagi.github.io/android-opensource-library-56/images/cov.jpg" width="300px"/>
+
+## メンテナンスについて
+
+オープンソースライブラリは更新が早く、書籍に書かれた導入方法が古くなってしまう場合もあります。なるべく本リポジトリにて最新の情報をキャッチアップしていきたいと思っています。全てのライブラリを一人で見渡す事は難しいので、もしお気づきになられましたらissueで報告して頂けますと助かります。
+
+サンプルコードのバグや、機能追加等に関するissueも歓迎しています。Pull Requestは大歓迎です。
 
 ## ライセンス
 
