@@ -1,6 +1,6 @@
 ## 概要
 
-本リポジトリは[Androidオープンソースライブラリ徹底活用](http://www.amazon.co.jp/gp/product/4798040029/)のサンプルコードのリポジトリです。書籍の情報については[http://sys1yagi.github.io/android-opensource-library-56/](http://sys1yagi.github.io/android-opensource-library-56/)を参照ください。
+本リポジトリは[Androidオープンソースライブラリ徹底活用](http://www.amazon.co.jp/gp/product/4798040029/)のサンプルコードのリポジトリです。書籍の情報については[http://android-opensource-library-56.github.io/android-opensource-library-56/](http://android-opensource-library-56.github.io/android-opensource-library-56/)を参照ください。
 
 <img src="http://sys1yagi.github.io/android-opensource-library-56/images/cov.jpg" width="300px"/>
 
