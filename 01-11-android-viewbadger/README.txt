@@ -1,8 +1,8 @@
-ポップアップメニューを実現するライブラリ
-サポートバージョン: Android 2.1 以上
+Viewにバッジを追加するライブラリ
+サポートバージョン: Android 1.6 以上
 License: Apache 2.0
 タイプ: Androidプロジェクト
-公式サイト: https://github.com/lorensiuswlt/NewQuickAction
+公式サイト: https://github.com/jgilfelt/android-viewbadger
 
 setup.shを実行するとandroid-viewbadgerをcloneできます。
 android-viewbadgerは通常のAndroidプロジェクトです。
